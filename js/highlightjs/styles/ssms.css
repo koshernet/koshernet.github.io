@@ -29,6 +29,8 @@ header.site-header {
 .code_div {
   width: 100%;
   display: flex;
+  direction: ltr;
+  text-align: left;
 }
 
 .language-cmd {
